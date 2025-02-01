@@ -9,3 +9,5 @@ Dynamic  Dashboard  & Data Visualizations: Develop an interactive dashboard with
 Time Series Analysis: Conduct a comprehensive time series analysis to derive actionable insights and recommendations based on performance metrics. Implement a machine learning model integrated with a CI/CD pipeline to achieve a robust F1 score.
 Predictive Modeling: Generate predictive models to support informed decision-making, particularly in identifying trends based on historical data.
 Submission Details:
+ml link
+https://colab.research.google.com/drive/1TvRSlucrDA9I00SF9_ZR0wXh8IBiEMRb?usp=sharing
